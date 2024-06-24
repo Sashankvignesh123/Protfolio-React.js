@@ -1,0 +1,90 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description":"Frontend development focuses on the user interface and user experience aspects of web applications. It involves using HTML,CSS,JavaScript and React.js to create interactive and visually appealing websites.",
+      "link": "https://drive.google.com/file/d/1Li9zwvYG9SNN0Nf7ciYMR1DbR9prU0p7/view?usp=drivesdk"
+
+      
+
+    },
+    {
+      "id": "2",
+      "src": "/img/tag-1 .png",
+      "title": "Back-End",
+      "description": "A backend using Node.js, Express.js, MongoDB, Mongoose, and Socket.io handles server-side tasks, such as data storage, and database communication, while also enabling real-time interactions.",
+      "link": "https://drive.google.com/file/d/1LL8sky6X9N3LtT73_DGS9elCU2frLFcb/view?usp=drivesdk  "
+
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "DBMS",
+      "description": "A Database Management System (DBMS) is software that allows users to efficiently define, create, maintain, and control access to databases. It ensures data integrity, security, and consistency.",
+      "link": "https://drive.google.com/file/d/1LtTMjYKms7UB06RJcI6r2UOJGS1PQw8n/view?usp=drivesdk"
+
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Java With DSA",
+      "description": "Data structures are organized formats for efficiently storing, managing, and accessing data. Examples include arrays, linked lists, stacks, queues, trees, graphs, hash tables and performance optimization.",
+      "link": "https://drive.google.com/file/d/1Lq1w1LBShoj_e8IOPBSeQk271dNOCynB/view?usp=drivesdk"
+
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Chat-Application",
+      "description": "I developed a chat application using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project involved real-time messaging, user authentication, and a responsive UI, demonstrating my proficiency in full-stack development and web socket integration.",
+      "link": "https://mern-stack-chat-application-2.onrender.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Expense Tracker",
+      "description": "I built an expense tracker using React.js, Bootstrap, HTML, CSS, and JavaScript. This application features real-time data handling, dynamic UI updates, and user-friendly expense management, showcasing my front-end development skills and ability to create interactive web applications.",
+      "link": "https://polite-eclair-5c9f1f.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Ecommerce-Website",
+      "description": "I created an e-commerce website using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes product listings, user authentication, a shopping cart, and order management, demonstrating my full-stack development skills and ability to build robust, scalable web applications.",
+      "link": "https://sashankvignesh123.github.io/E-com-MERN/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Nov 2023 – Dec 2023 Remote ",
+      "description-1":"I undertook a fascinating project developing a temperature converter and Quiz test using JavaScript,Bootstrap, CSS, and HTML. This interactive tool seamlessly converts temperatures between Celsius, Fahrenheit, and Kelvin, demonstrating my proficiency in front-end development and problem-solving skills .",
+      "author_name": "Intern",
+      "author_designation": "Oasis Infobyte"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "July 2023 - Oct 2023 Remote",
+      "description-1":" I have developed various projects showcasing my front-end development skills using HTML, CSS, Bootstrap, JavaScript, and React.js. I have also created several clone projects of popular websites using React.js, which enhanced my understanding of components, state management, and routing. ",
+      "author_name": "Coding ninjas",
+      "author_designation": "Front-End Development"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "May 2023-July 2023 Remote",
+      "description-1":" I have developed several backend projects demonstrating my proficiency in server-side technologies, particularly using Node.js, Express, Mongoose, MongoDB, and Socket.io.One notable project is a Chat Application, which utilizes these technologies to enable real-time messaging..",
+      "author_name": "Coding ninjas",
+      "author_designation": "Back-End Development"
+    }
+  ]
+}
